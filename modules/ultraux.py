@@ -17,6 +17,7 @@ def run_patcher():
     hwnd = utils.get_hwnds_for_pid(ultraux.pid)[0]
     hwnd = win32gui.GetWindow(hwnd, win32con.GW_CHILD)
 
+    # Hex key codes
     KEY_ENTER = 0x0D
     KEY_TAB   = 0x09
     KEY_A     = 0x41
