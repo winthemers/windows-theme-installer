@@ -3,8 +3,8 @@ Rice your system in seconds.
 
 <br>
 
-### Progress: WIP
-Currently only an automated UltraUX installer is implemented.
+### Progress: ⚠️ Abandoned
+This project is currently abandoned and for now, we have no plans of working on it again.
 
 ### Plans:
  - All-in-one graphical interface
